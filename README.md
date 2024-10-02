@@ -11,9 +11,6 @@ This repository demonstrates the implementation of six different software design
   - [Creational Patterns](#creational-patterns)
   - [Structural Patterns](#structural-patterns)
 - [Project Structure](#project-structure)
-- [How to Run the Code](#how-to-run-the-code)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Design patterns are proven solutions to common problems in software design. This project aims to provide clear and concise implementations of various design patterns to help developers understand their application and use in real-world scenarios.
