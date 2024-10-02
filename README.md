@@ -50,6 +50,7 @@ Design patterns are proven solutions to common problems in software design. This
 ## Project Structure
 
 DesignPatterns/
+│
 ├── behavioral/
 │   ├── ObserverPattern.java
 │   └── StrategyPattern.java
@@ -61,6 +62,7 @@ DesignPatterns/
 └── structural/
     ├── AdapterPattern.java
     └── DecoratorPattern.java
+
 
 # Astronaut Scheduler- Exercise 2
 
